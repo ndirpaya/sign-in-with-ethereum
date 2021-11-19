@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A Next.js web3 sign in button for Metamask, Torus and walletconnect (commented out in the code).
 
 Check out the [Demo](https://sign-in-with-ethereum-livid.vercel.app/)
 
